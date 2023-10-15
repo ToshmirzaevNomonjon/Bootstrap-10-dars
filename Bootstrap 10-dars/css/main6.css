@@ -1,0 +1,38 @@
+/*.z{
+    position: relative;
+    right: 500px;
+    top: 14px;
+}*/
+.youz{
+    position: relative;
+    left: 125px;
+    bottom: 45px;
+    color: grey;
+}
+.rasm{
+    position: relative;
+    top: 20px;
+}
+.a{
+    position: relative;
+    left: 190px;
+    background-color: rgba(17, 119, 84, 0.91);
+    color: white;
+    font-size: 15px;
+    bottom: 56px;
+}
+.a:hover{
+    color: white;
+}
+.face{
+    position: relative;
+    top: 3px;
+    left: 8px;
+}
+.zz{
+    padding-right: 430px;
+}
+.p{
+    position: relative;
+    bottom: 10px;
+}
